@@ -1,4 +1,4 @@
-package GrookTest
+package github.com/YuriTereschenko/Grook
 
 import "fmt"
 
